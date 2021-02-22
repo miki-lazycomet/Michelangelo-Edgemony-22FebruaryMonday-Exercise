@@ -1,0 +1,15 @@
+{
+  "name": "lezione22febmiki",
+  "version": "1.0.0",
+  "description": "This is the project folder i'm using to do exercises for Edgemony's Coding Bootcamp",
+  "main": "index.js",
+  "dependencies": {
+    "consola": "^2.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
